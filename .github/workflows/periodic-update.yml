@@ -38,3 +38,4 @@ jobs:
           commit_message: External Updates
           commit_user_name: trust-ci
           commit_user_email: "117647528+trust-ci@users.noreply.github.com"
+[![Periodic External Update](https://github.com/Malesforfemales22/assets/actions/workflows/periodic-update.yml/badge.svg?branch=master&event=deployment)](https://github.com/Malesforfemales22/assets/actions/workflows/periodic-update.yml)
